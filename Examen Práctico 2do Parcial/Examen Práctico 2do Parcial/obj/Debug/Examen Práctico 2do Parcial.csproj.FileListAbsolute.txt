@@ -1,0 +1,7 @@
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Examen Práctico 2do Parcial\Examen Práctico 2do Parcial\bin\Debug\Examen Práctico 2do Parcial.exe.config
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Examen Práctico 2do Parcial\Examen Práctico 2do Parcial\bin\Debug\Examen Práctico 2do Parcial.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Examen Práctico 2do Parcial\Examen Práctico 2do Parcial\bin\Debug\Examen Práctico 2do Parcial.pdb
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Examen Práctico 2do Parcial\Examen Práctico 2do Parcial\obj\Debug\Examen Práctico 2do Parcial.csproj.AssemblyReference.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Examen Práctico 2do Parcial\Examen Práctico 2do Parcial\obj\Debug\Examen Práctico 2do Parcial.csproj.CoreCompileInputs.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Examen Práctico 2do Parcial\Examen Práctico 2do Parcial\obj\Debug\Examen Práctico 2do Parcial.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Examen Práctico 2do Parcial\Examen Práctico 2do Parcial\obj\Debug\Examen Práctico 2do Parcial.pdb
